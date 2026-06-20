@@ -20,6 +20,11 @@ Instead of stopping at text generation, the workflow converts the result into st
 * Ownership assignment
 * Human-review and escalation paths
 * Workflow guardrails
+## Workflow Architecture
+
+Current version of the Grocery Brain workflow built in n8n.
+
+![Workflow](Github.jpg)
 
 ## Workflow Overview
 
